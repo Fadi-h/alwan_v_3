@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688990989701",
+    "project_id": "alwan-notification",
+    "storage_bucket": "alwan-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688990989701:android:f3311428f74c84b8d5e8ec",
+        "android_client_info": {
+          "package_name": "com.maxart.alwan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688990989701-9hjui57ha7buv7dplk75uu9nfnj10r3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Ce6eL1zW4QUTHj96shxo9aBlo6qx6do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688990989701-9hjui57ha7buv7dplk75uu9nfnj10r3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
